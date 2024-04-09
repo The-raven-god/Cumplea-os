@@ -59,6 +59,9 @@
   * {
     font-family: comic-sans;
   } */
+  .burbuja-img {
+    margin-left: 0; /* Eliminar el margen izquierdo */
+  }
   
   body {
     background: linear-gradient(#88C1F2, #94E9F2);
@@ -160,6 +163,8 @@
       top: 0;
     }
   }
+
+  
   
   
   .heart {
